@@ -2,7 +2,6 @@ export const profile = {
   name: "Dilip Kumar",
   title: "Senior Backend Engineer",
   location: "Pune - 411014",
-  phone: "9370675459",
   email: "smartworkdilip@gmail.com",
   github: "https://github.com/smartworkdilip",
   linkedin: "https://linkedin.com/in/smartworkdilip",

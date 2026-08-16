@@ -124,6 +124,16 @@
   margin: 0 auto;
 }
 
+.hero__photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 24px;
+  border: 3px solid var(--accent);
+  box-shadow: 0 0 0 6px rgba(94, 234, 212, 0.12);
+}
+
 .hero__eyebrow {
   color: var(--accent);
   font-family: var(--mono);
